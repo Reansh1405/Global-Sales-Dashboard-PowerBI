@@ -54,8 +54,6 @@ The dataset contains information related to:
 
 ## 📸 Dashboard Preview
 
-> *(Upload your dashboard screenshot as `dashboard.png` in the repository root.)*
-
 ![Dashboard Preview](Global_superstore_dashboard.png)
 
 ---
@@ -113,5 +111,3 @@ Global-Sales-Dashboard-PowerBI
 Passionate about Data Analytics, Business Intelligence, and creating interactive dashboards using Power BI.
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
